@@ -44,3 +44,5 @@ Feel free to contact the organization for any enquriy or doubt.
 This project is coded under the Google Summer of Code project awarded to Albert Morea Font from Liquid Galaxy Lab.
 
 The API used for the live aircraft data is from The OpenSky Network project (http://www.opensky-network.org) an open source project from Switzerland.
+---new version ---
+new flutter version coming soon
